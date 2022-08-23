@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color:black;
+  color: white;
+} 
+.imgLogo {
+  width: 70px;
+  height: 70px;
+  margin-top: 10px;
+}
+.imgMovie{
+  width: 100%;
+
+}
+.cardStyle{
+  width: 250px;
+  max-height: 25%;
+  margin-left: 5px
+}
+.btnCard{
+  text-decoration: none;
+}
+body{
+  background-color: #282c34;
+  color: white;
+}
+/*  Calificación por estrellas */
+.estrella{
+  cursor: pointer;
+}
+.orange{
+  color: orange;
+}
+
+
+
