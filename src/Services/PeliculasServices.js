@@ -6,6 +6,6 @@ export function getAll(){
 }
 
 export function getById(id){
-    return fetch(`http://api.themoviedb.org/3/movie/"+id+"??${apiKey}`)
+    return fetch(`http://api.themoviedb.org/3/movie"+id+"??${apiKey}`)
     .then(res => res.json())
 }
