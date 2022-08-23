@@ -79,7 +79,7 @@ if(loading){
     <div className="justify-content-center">
         <HeaderHome handleChange={handleChange} handleClick={handleClick} />
         <div id="home">
-        <Row className="mx-2">    
+        <Row className="mx-auto">    
             {resultado.map(pelicula => {   
                 return(
                 <Pelicula datos={pelicula} key={pelicula.id} /> 

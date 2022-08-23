@@ -8,7 +8,7 @@ function Pelicula(props){
     return(
         <Col className="mx-0">
             <div>
-                <div className="cardStyle card bg-dark mb-2">
+                <div className="cardStyle card bg-dark mb-5">
                     <Card.Img variant="top" src={imgSrc}/>
                     <Card.Body>
                     <Card.Title className="fs-5 my-2">{datos.title}</Card.Title>
