@@ -1,4 +1,4 @@
-# App de películas "AppCine"
+# App de películas "Play Cine"
 
 ## Proyecto individual - React Js
 Este proyecto se realizó como prueba técnica para un puesto de Frontend Jr.
